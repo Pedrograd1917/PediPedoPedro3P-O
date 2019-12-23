@@ -1,0 +1,191 @@
+body {
+   background-image:url("../img/Japan-1.png");  
+   background-color:beige;
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+   background-position: center;
+   background-size: auto;
+}
+
+header {
+    Font-family: Girassol, cursive;
+    font-size: 40px;
+    background-color: beige;
+    text-align: center;
+}
+p {
+    font-family: Girassol, cursive;
+    font-size: 20px;
+    text-align: center;
+    margin-left: 165px;
+    margin-right: 165px;
+}
+
+h1 {
+    Font-family: Girassol, cursive;
+    font-size: 40px;
+    background-color: beige;
+    text-align: center;
+}
+
+.topnav {
+    background-color: rgb(199, 22, 22);
+    overflow: hidden;
+    margin: auto;
+    width: auto;
+    border: 1px solid black;
+    padding: 2px;
+    position: fixed;
+    top: 0;
+}
+
+.topnav a {
+    float: center;
+    color: whitesmoke;
+    text-align: center;
+    padding: 20px 70px;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.topnav a:hover {
+    background-color:#B22222;
+    color:whitesmoke;
+}
+
+.topnav a.active1 {
+    background-color: #800000;
+    color: whitesmoke;
+}
+
+img {
+    width: 230px;
+    height: 380px;
+    float: left;
+    margin: 5px;
+}
+
+div{
+  background-color: lightgrey;
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+}
+
+main {
+    text-align: justify;
+}
+
+img.ekotoba {
+    float: right;
+    width: 400px;
+    height: 250px;
+    border: 1px solid black;
+    margin: 5px;
+}
+
+footer {
+     font-size: 24px;
+     background-color: darkkhaki; 
+     text-align: center;
+}
+
+#Japan_houses {
+    width: 400px;
+    height: 200px;
+    border: 1px solid black;
+}
+
+#Primini {
+    width: 200px;
+    height: 300px;
+    border: solid black 1px;
+    float: right;
+}
+
+#Emp {
+    width: 200px;
+    height: 290px;
+    border: solid black 1px;
+    float: left;
+}
+
+#meiji {
+    width: 220px;
+    height: 350px;
+    float: left;
+    border: solid black 1px;
+}
+
+#Bank {
+    width: 350px;
+    height: 250px;
+    float: right ;
+    border: solid black 1px;
+}
+
+#Stock {
+    width: 250px;
+    height: 300px;
+    float: left;
+    border: solid black 1px;
+}
+
+#geiko {
+   width: 320px;
+   height: 300px;
+   float: right;
+   border: solid black 1px;
+}
+
+#kinkaku {  
+    width: 350px;
+    height: 250px;
+    float: left;
+    border: solid black 1px;
+}
+
+#kanagawa {
+    width: 350px;
+    height: 250px;
+    float: left;
+    border: solid black 1px;
+}
+#itsukushima {
+    width: 500px;
+    height: 150x;
+    float: right;
+    border: solid black 1px;
+}
+#satellite_japan {
+    width: 370px;
+    height: 550px;
+    float: left;
+    border: solid black 1px;
+    margin: 5px;
+}
+#nagano {
+    width: 300px;
+    height: 300px;
+    float:  left;
+    border: solid black 1px;
+}
+#momiji {
+    width: 400px;
+    height: 250px;
+    float: right;
+    border: solid black 1px;
+}
+#ainu {
+    width: 350px;
+    height: 250px;
+    float: left;
+    border: solid black 1px;
+}
+#Skytree {
+    width: 390px;
+    height: 250px;
+    float: right;
+    border: solid black 1px;
+}
